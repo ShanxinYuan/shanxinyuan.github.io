@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: shanxin2.PNG
+  image: shanxin2.png
   image_circular: true # crops the image to make it circular
   address: >
     <p>DERI - Digital Environment Research Institute</p>
