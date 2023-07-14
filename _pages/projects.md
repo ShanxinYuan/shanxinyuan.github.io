@@ -1,13 +1,19 @@
 ---
 layout: page
-title: projects
+title: team
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing team.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [PhD, Master]
 horizontal: false
 ---
+
+
+
+
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
