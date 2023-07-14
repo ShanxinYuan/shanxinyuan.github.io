@@ -26,7 +26,7 @@ horizontal: false
     
     <td style="border: none; padding:40px; vertical-align: middle;">
       <img src="/assets/img/christian.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="https://www.christiansteinmetz.com/">Christian J. Steinmetz</a> <br> PhD candidate, 2020<br>Audio and music. <br>With Joshua</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="https://www.christiansteinmetz.com/">Christian J. Steinmetz</a> <br> PhD candidate, 2020<br>Audio and Music. <br>With Joshua</p>
     </td>
 
     <td style="border: none; padding:40px; vertical-align: middle;">
@@ -38,19 +38,19 @@ horizontal: false
   <tr>
     <td style="border: none; padding:40px">
       <img src="/assets/img/QingWang.jpg" alt="Alt Text" width="120" height="160" alt="Image 3" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Qing Wang</a> <br> PhD candidate, 2023<br>Multi-modal learning</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Qing Wang</a> <br> PhD candidate, 2023<br>Multi-modal Learning.</p>
     </td>
     <td style="border: none; padding:40px">
       <img src="/assets/img/XiaohangYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Xiaohang Yang</a> <br> PhD candidate, 2023<br>Neural rendering, human body</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Xiaohang Yang</a> <br> PhD candidate, 2023<br>Neural Rendering, Human Body.</p>
     </td>
     <td style="border: none; padding:40px"> 
       <img src="/assets/img/YilanDong.jpg" alt="Alt Text" width="120" height="160" alt="Image 3" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Yilan Dong</a> <br> PhD candidate, 2023<br>Neural rendering, hand pose</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Yilan Dong</a> <br> PhD candidate, 2023<br>Neural Rendering, Hand Pose.</p>
     </td>
     <td style="border: none; padding:40px">
       <img src="/assets/img/JiahaoYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Neural rendering, 4D human head</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Neural Rendering, 4D Human Dead.</p>
     </td>
   </tr>
 </table>
