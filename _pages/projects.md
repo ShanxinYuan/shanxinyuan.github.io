@@ -13,6 +13,51 @@ horizontal: false
 
 
 
+<table style="border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="/assets/img/Henry.png" alt="Alt Text" width="160" height="250" alt="Image 1">
+      <p>Henry Senior</p>
+    </td>
+    
+    <td>
+      <img src="/assets/img/qifan.jpeg" alt="Alt Text" width="160" height="250" alt="Image 2">
+      <p>QIfan Fu</p>
+    </td>
+    
+    <td>
+      <img src="/assets/img/christian.jpeg" alt="Alt Text" width="160" height="250" alt="Image 2">
+      <p>Christian J. Steinmetz</p>
+    </td>
+
+    <td>
+      <img src="/assets/img/marco.jpeg" alt="Alt Text" width="160" height="250" alt="Image 2">
+      <p>MARCO COMUNITA'</p>
+    </td>
+
+  </tr>
+  <tr>
+    <td>
+      <img src="/assets/img/QingWang.jpg" alt="Alt Text" width="160" height="250" alt="Image 3">
+      <p>Qing Wang, 2023</p>
+    </td>
+    <td>
+      <img src="/assets/img/XiaohangYang.jpg" alt="Alt Text" width="160" height="250" alt="Image 4">
+      <p>Xiaohang Yang, 2023</p>
+    </td>
+    <td>
+      <img src="/assets/img/YilanDong.jpg" alt="Alt Text" width="160" height="250" alt="Image 3">
+      <p>Yilan Dong, 2023</p>
+    </td>
+    <td>
+      <img src="/assets/img/JiahaoYang.jpg" alt="Alt Text" width="160" height="250" alt="Image 4">
+      <p>Jiahao Yang, 2023</p>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 <!-- pages/projects.md -->
