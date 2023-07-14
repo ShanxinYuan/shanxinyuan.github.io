@@ -5,53 +5,52 @@ permalink: /team/
 description: A growing team.
 nav: true
 nav_order: 2
-display_categories: [PhD, Master]
+display_categories: [PhD]
 horizontal: false
 ---
 
 
 
-hello
-
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td>
-      <img src="/assets/img/henry.png" alt="Alt Text" width="160" height="250" alt="Image 1">
-      <p>Henry Senior</p>
+
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/henry.png" alt="Alt Text" width="120" height="160" alt="Image 1" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://henrysenior.com/">Henry Senior</a> <br> PhD candidate, 2021 <br> GNN, Vision-Language. <br>With Greg and Luca</p>
     </td>
     
-    <td>
-      <img src="/assets/img/qifan.jpeg" alt="Alt Text" width="160" height="250" alt="Image 2">
-      <p>QIfan Fu</p>
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/qifan.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://fuqifan.github.io/">Qifan Fu</a> <br> PhD candidate, 2021 <br> Sign Language. <br>With Greg and Changjae</p>
     </td>
     
-    <td>
-      <img src="/assets/img/christian.jpeg" alt="Alt Text" width="160" height="250" alt="Image 2">
-      <p>Christian J. Steinmetz</p>
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/christian.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://www.christiansteinmetz.com/">Christian J. Steinmetz</a> <br> PhD candidate, 2020<br>Audio and music. <br>With Joshua</p>
     </td>
 
-    <td>
-      <img src="/assets/img/marco.jpeg" alt="Alt Text" width="160" height="250" alt="Image 2">
-      <p>MARCO COMUNITA'</p>
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/marco.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://mcomunita.github.io/">Marco Comunita'</a> <br> PhD candidate, 2020<br>Neural Synthesis of Sound Effects. <br>With Joshua</p>
     </td>
 
   </tr>
   <tr>
-    <td>
-      <img src="/assets/img/QingWang.jpg" alt="Alt Text" width="160" height="250" alt="Image 3">
-      <p>Qing Wang, 2023</p>
+    <td style="border: none; padding:40px">
+      <img src="/assets/img/QingWang.jpg" alt="Alt Text" width="120" height="160" alt="Image 3" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="">Qing Wang</a> <br> PhD candidate, 2023<br>Multi-modal learning</p>
     </td>
-    <td>
-      <img src="/assets/img/XiaohangYang.jpg" alt="Alt Text" width="160" height="250" alt="Image 4">
-      <p>Xiaohang Yang, 2023</p>
+    <td style="border: none; padding:40px">
+      <img src="/assets/img/XiaohangYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="">Xiaohang Yang</a> <br> PhD candidate, 2023<br>Neural rendering, human body</p>
     </td>
-    <td>
-      <img src="/assets/img/YilanDong.jpg" alt="Alt Text" width="160" height="250" alt="Image 3">
-      <p>Yilan Dong, 2023</p>
+    <td style="border: none; padding:40px"> 
+      <img src="/assets/img/YilanDong.jpg" alt="Alt Text" width="120" height="160" alt="Image 3" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="">Yilan Dong</a> <br> PhD candidate, 2023<br>Neural rendering, hand pose</p>
     </td>
-    <td>
-      <img src="/assets/img/JiahaoYang.jpg" alt="Alt Text" width="160" height="250" alt="Image 4">
-      <p>Jiahao Yang, 2023</p>
+    <td style="border: none; padding:40px">
+      <img src="/assets/img/JiahaoYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Neural rendering, 4D human head</p>
     </td>
   </tr>
 </table>
