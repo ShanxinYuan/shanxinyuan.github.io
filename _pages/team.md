@@ -1,7 +1,7 @@
 ---
 layout: page
 title: team
-permalink: /projects/
+permalink: /team/
 description: A growing team.
 nav: true
 nav_order: 2
@@ -16,7 +16,7 @@ horizontal: false
 <table style="border-collapse: collapse;">
   <tr>
     <td>
-      <img src="/assets/img/Henry.png" alt="Alt Text" width="160" height="250" alt="Image 1">
+      <img src="/assets/img/henry.png" alt="Alt Text" width="160" height="250" alt="Image 1">
       <p>Henry Senior</p>
     </td>
     
