@@ -29,3 +29,6 @@ I am a Lecturer in Digital Environment at <a href="http://www.eecs.qmul.ac.uk/">
 
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-#Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, #LinkedIn, Google Scholar, or just disable all of them.
 -->
+
+<a href="https://clustrmaps.com/site/1bdyy"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=zQzGkcGdxzN-5-6_CJQZ_BHAgn4E52DhtfU_hZuVaD0&cl=ffffff" /></a>
+
