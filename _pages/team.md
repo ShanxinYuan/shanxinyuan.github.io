@@ -50,7 +50,7 @@ horizontal: false
     </td>
     <td style="border: none; padding:40px">
       <img src="/assets/img/JiahaoYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Neural Rendering, 4D Human Dead.</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Neural Rendering, 4D Human Head.</p>
     </td>
   </tr>
 </table>
