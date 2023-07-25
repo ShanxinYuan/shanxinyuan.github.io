@@ -110,7 +110,7 @@ horizontal: false
 
 MSc students:
 
-Nan Tia, 2022/2023
+Nan Xia, 2022/2023
 
 Chen-Yu Lin, 2022/2023
 
