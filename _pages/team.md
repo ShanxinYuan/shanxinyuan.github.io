@@ -5,7 +5,7 @@ permalink: /team/
 description: A growing team.
 nav: true
 nav_order: 2
-display_categories: [PhD]
+display_categories: [PhD, MSc]
 horizontal: false
 ---
 
