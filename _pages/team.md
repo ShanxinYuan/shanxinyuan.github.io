@@ -106,3 +106,14 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+
+MSc students:
+
+Nan Tia, 2022/2023
+
+Chen-Yu Lin, 2022/2023
+
+Rongzhi Zhong, 2022/2023
+
+Edmund Richard Lepre, 2022/2023 
