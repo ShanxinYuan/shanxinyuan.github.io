@@ -5,7 +5,7 @@ permalink: /team/
 description: A growing team.
 nav: true
 nav_order: 2
-display_categories: [PhD, MSc]
+display_categories: [PhD]
 horizontal: false
 ---
 
@@ -110,10 +110,13 @@ horizontal: false
 
 MSc students:
 
-Nan Xia, 2022/2023
 
 Chen-Yu Lin, 2022/2023
 
+Edmund Richard Lepre, 2022/2023 
+
+Nan Xia, 2022/2023
+
 Rongzhi Zhong, 2022/2023
 
-Edmund Richard Lepre, 2022/2023 
+
