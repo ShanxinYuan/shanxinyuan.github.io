@@ -10,5 +10,5 @@ horizontal: false
 ---
 
 
-July-2023: "Understanding Human Behaviour in 3D", <a href="https://www.cs.cit.tum.de/camp/news/article/workshop-in-advanced-topics-in-3d-computer-vision-july-2023/">Keynote for 5th Workshop on Advanced Topics in 3D Computer Vision, TUM.</a>
+July-2023: "Understanding Human Behaviour in 3D", Keynote for the <a href="https://www.cs.cit.tum.de/camp/news/article/workshop-in-advanced-topics-in-3d-computer-vision-july-2023/">5th Workshop on Advanced Topics in 3D Computer Vision, TUM.</a>
 
