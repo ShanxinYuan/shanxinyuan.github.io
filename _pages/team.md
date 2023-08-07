@@ -5,11 +5,11 @@ permalink: /team/
 description: A growing team.
 nav: true
 nav_order: 2
-display_categories: [PhD]
+display_categories: [team]
 horizontal: false
 ---
 
-
+<b>PhD Candidates</b>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -55,6 +55,57 @@ horizontal: false
   </tr>
 </table>
 
+
+
+
+
+<b>External Members</b>
+
+
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/LinLiu.png" alt="Alt Text" width="120" height="160" alt="Image 1" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="http://home.ustc.edu.cn/~ll0825/">Lin Liu, USTC</a> <br> PhD candidate, <br> 2022 <br>Low-level Vision <br>With Qi Tian</p>
+    </td>
+
+    
+    <!--
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/LinLiu.png" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://fuqifan.github.io/">Qifan Fu</a> <br> PhD candidate, 2021 <br> Sign Language. <br>With Greg and Changjae</p>
+    </td>
+    
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/christian.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://www.christiansteinmetz.com/">Christian J. Steinmetz</a> <br> PhD candidate, 2020<br>Audio and Music. <br>With Joshua</p>
+    </td>
+
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/marco.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://mcomunita.github.io/">Marco Comunita'</a> <br> PhD candidate, 2020<br>Neural Synthesis of Sound Effects. <br>With Joshua</p>
+    </td>
+    -->   
+
+  </tr>
+ 
+</table>
+
+
+
+
+<b>MSc students</b>
+
+
+Chen-Yu Lin, 2022/2023
+
+Edmund Richard Lepre, 2022/2023 
+
+Nan Xia, 2022/2023
+
+Rongzhi Zhong, 2022/2023
 
 
 
@@ -108,15 +159,5 @@ horizontal: false
 </div>
 
 
-MSc students:
-
-
-Chen-Yu Lin, 2022/2023
-
-Edmund Richard Lepre, 2022/2023 
-
-Nan Xia, 2022/2023
-
-Rongzhi Zhong, 2022/2023
 
 
