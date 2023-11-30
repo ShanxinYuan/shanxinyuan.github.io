@@ -24,3 +24,5 @@ PhD: Multiple fully funded PhD studentships will be available on a regular basis
 
 3. Centre for Doctoral Training, (IGGI, AIM, Data-Centric Engineering)​
 
+4. BAME PhD scholarships
+
