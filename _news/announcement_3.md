@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted to CVIU
+Paper accepted to Computer Vision and Image Understanding
