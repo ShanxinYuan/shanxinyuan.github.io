@@ -76,6 +76,11 @@ We are supporting strong candidates in applying for [Research Fellowships](http:
 - [Turing Fellowship](https://www.ukri.org/opportunity/turing-ai-world-leading-researcher-fellowships-round-two/)
 
 
+**Visiting scholars**
+
+- [CSC scholarship](https://www.csc.edu.cn/)
+
+- [Commonwealth Split-site Scholarship](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-scholarships-for-low-and-middle-income-countries/)
 
 
 
