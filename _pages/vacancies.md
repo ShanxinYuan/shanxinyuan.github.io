@@ -20,12 +20,17 @@ Postdoc: We are hosting Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fell
 
 Applicants can self-fund their studies.
 
-In addition, multiple fully funded PhD studentships will be available on a regular basis.
+In addition, multiple fully funded PhD studentships are available on a regular basis.
 
 - [China Scholarship Council (CSC) Scholarships​](https://www.qmul.ac.uk/scholarships/items/queen-mary-csc-phd-scholarships.html), for Chinese applicants.
 
 - [Islamic Development Bank Scholarships](https://www.qmul.ac.uk/scholarships/items/idb-qmul-phd-scholarships.html), for International applicants of eligible countries
  
+
+- [Pakistan HEC-QMUL PhD Scholarships](https://www.qmul.ac.uk/scholarships/items/pakistan-hec-qmul-phd-scholarships.html), for Pakistani applicants.
+
+- [Turkish Embassy Scholarships (PhD)](https://www.qmul.ac.uk/scholarships/items/turkish-embassy-scholarships--1.html), for Turkish applicants.
+
 
 DeepMind PhD scholarships​, for applicants identifying as female and/or are of Black ethnicity
 
