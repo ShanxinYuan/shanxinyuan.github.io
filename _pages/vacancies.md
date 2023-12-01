@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vacancies
-permalink: /Vacancies/
+title: vacancies
+permalink: /vacancies/
 description: 
 nav: true
 nav_order: 2
@@ -22,7 +22,7 @@ Applicants can self-fund their studies.
 
 In addition, multiple fully funded PhD studentships will be available on a regular basis.
 
-1. China Scholarship Council (CSC) Scholarships​, for Chinese applicants
+1. [China Scholarship Council (CSC) Scholarships​] (https://www.qmul.ac.uk/scholarships/items/queen-mary-csc-phd-scholarships.html), for Chinese applicants.
 
 2. DeepMind PhD scholarships​, for applicants identifying as female and/or are of Black ethnicity
 
