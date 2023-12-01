@@ -16,15 +16,18 @@ We are always looking for motivated PhD students, Postdoctoral researchers, inte
 Postdoc: We are hosting Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellows for 1-2 years. Researchers of any nationality can apply.
      
 
-PhD: 
+**PhDs** 
 
 Applicants can self-fund their studies.
 
 In addition, multiple fully funded PhD studentships will be available on a regular basis.
 
-1. [China Scholarship Council (CSC) Scholarships​](https://www.qmul.ac.uk/scholarships/items/queen-mary-csc-phd-scholarships.html), for Chinese applicants.
+- [China Scholarship Council (CSC) Scholarships​](https://www.qmul.ac.uk/scholarships/items/queen-mary-csc-phd-scholarships.html), for Chinese applicants.
 
-2. DeepMind PhD scholarships​, for applicants identifying as female and/or are of Black ethnicity
+- [Islamic Development Bank Scholarships](https://www.qmul.ac.uk/scholarships/items/idb-qmul-phd-scholarships.html), for International applicants of eligible countries
+ 
+
+DeepMind PhD scholarships​, for applicants identifying as female and/or are of Black ethnicity
 
 3. Centre for Doctoral Training, (IGGI, AIM, Data-Centric Engineering)​
 
