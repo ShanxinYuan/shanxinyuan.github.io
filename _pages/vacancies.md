@@ -21,6 +21,8 @@ In addition, multiple fully funded PhD scholarships are available on a regular b
 
 - [China Scholarship Council (CSC) Scholarships​](https://www.qmul.ac.uk/scholarships/items/queen-mary-csc-phd-scholarships.html), for Chinese applicants.
 
+- [Joint Doctoral Programme in Interactive and Cognitive Environments](https://cis.eecs.qmul.ac.uk/JD_ICE.html#PeopleProjects), joint PhD programme with Univ. Genoa (primary institution)
+
 - [DeepMind PhD scholarships​](http://www.eecs.qmul.ac.uk/phd/phd-studentships/deepmind-phd-studentship-in-ai-or-machine-learning/#d.en.942226), for applicants identified as female and/or are of Black ethnicity.
 
 - Centre for Doctoral Training (IGGI, AIM, Data-Centric Engineering, NERC)​
