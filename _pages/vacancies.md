@@ -19,7 +19,7 @@ Applicants can self-fund their studies.
 
 In addition, multiple fully funded PhD scholarships are available on a regular basis.
 
-- [China Scholarship Council (CSC) Scholarships​](https://www.qmul.ac.uk/scholarships/items/queen-mary-csc-phd-scholarships.html), for Chinese applicants.
+- [China Scholarship Council (CSC) Scholarships​](https://www.csc.edu.cn/chuguo), for Chinese applicants.
 
 - [Joint Doctoral Programme in Interactive and Cognitive Environments](https://cis.eecs.qmul.ac.uk/JD_ICE.html#PeopleProjects), joint PhD programme with Univ. Genoa (primary institution)
 
