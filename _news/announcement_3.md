@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-10 07:59:00-0400
+date: 2025-07-06 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Paper accepted to Computer Vision and Image Understanding
+Paper accepted to ACM MM 2025

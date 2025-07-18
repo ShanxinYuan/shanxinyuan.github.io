@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-07-03 07:59:00-0400
+date: 2025-06-25 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
 
-Paper accepted to Neural Computing and Applications
+Paper accepted to ICCV 2025
