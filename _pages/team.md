@@ -38,39 +38,25 @@ horizontal: false
   <tr>
     <td style="border: none; padding:40px">
       <img src="/assets/img/QingWang.jpg" alt="Alt Text" width="120" height="160" alt="Image 3" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Qing Wang</a> <br> PhD candidate, 2023<br>Multi-modal Learning.</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Qing Wang</a> <br> PhD candidate, 2023<br>Multi-modal Learning, dance generation.</p>
     </td>
     <td style="border: none; padding:40px">
       <img src="/assets/img/XiaohangYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Xiaohang Yang</a> <br> PhD candidate, 2023<br>Neural Rendering, Human Body.</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Xiaohang Yang</a> <br> PhD candidate, 2023<br>Generative AI, motion generation</p>
     </td>
     <td style="border: none; padding:40px"> 
       <img src="/assets/img/YilanDong.jpg" alt="Alt Text" width="120" height="160" alt="Image 3" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Yilan Dong</a> <br> PhD candidate, 2023<br>Neural Rendering, Hand Pose.</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Yilan Dong</a> <br> PhD candidate, 2023<br>Generative AI, motion generation</p>
     </td>
     <td style="border: none; padding:40px">
       <img src="/assets/img/JiahaoYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Neural Rendering, 4D Human Head.</p>
+      <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Generative AI, 4D Human Head.</p>
     </td>
   </tr>
 </table>
 
 
 
-
-
-
-
-<b>MSc students</b>
-
-
-Chen-Yu Lin, 2022/2023
-
-Edmund Richard Lepre, 2022/2023 
-
-Nan Xia, 2022/2023
-
-Rongzhi Zhong, 2022/2023
 
 
 
