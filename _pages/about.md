@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer in Digital Environment at <a href="http://www.eecs.qmul.ac.uk/">School of Electronic Engineering and Computer Science</a>, <a href="https://www.qmul.ac.uk/">Queen Mary University of London</a>， where I lead the <strong>Motion Intelligence Lab</strong>. I hold a PhD from Imperial College London, where my research focused on hand pose estimation. My research interests are machine learning and computer vision, particularly 3D digital humans and motion intelligence. I am an Associate Editor for The Visual Computer journal. I regularly review for major computer vision conferences (CVPR, ICCV, ECCV, and NeurIPS) and related journals (TPAMI, IJCV and TIP).
+I am a Lecturer in Digital Environment at <a href="http://www.eecs.qmul.ac.uk/">School of Electronic Engineering and Computer Science</a>, <a href="https://www.qmul.ac.uk/">Queen Mary University of London</a>， where I lead the <strong>Motion AI Lab</strong>. I hold a PhD from Imperial College London, where my research focused on hand pose estimation. My research interests are machine learning and computer vision, particularly 3D digital humans and motion intelligence. I am an Associate Editor for The Visual Computer journal. I regularly review for major computer vision conferences (CVPR, ICCV, ECCV, and NeurIPS) and related journals (TPAMI, IJCV and TIP).
 
 
 
