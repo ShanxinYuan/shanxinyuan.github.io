@@ -32,8 +32,8 @@ horizontal: false
   </tr>
   <tr>
     <td style="border: none; padding:40px">
-      <img src="/assets/img/Dragos.jpeg" alt="Dragos" width="120" height="160" style="border-radius: 50%; object-fit: cover;">
-      <p style="font-size: 14px; text-align: center;"> <a href="">Dragos</a> <br> PhD candidate, 2026<br>Spatial Biology, BBSRC funded.</p>
+      <img src="/assets/img/Dragos.jpeg" alt="Dragos-Alexandru Gegea" width="120" height="160" style="border-radius: 50%; object-fit: cover;">
+      <p style="font-size: 14px; text-align: center;"> <a href="">Dragos-Alexandru Gegea</a> <br> PhD candidate, 2026<br>Spatial Biology, BBSRC funded.</p>
     </td>
   </tr>
 </table>
