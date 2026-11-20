@@ -13,7 +13,7 @@ We are always looking for motivated PhD students, Postdoctoral researchers, inte
 
 <br>
 
-**Open Position: Fully Funded PhD Studentship (Deadline: 1 December 2026)**
+<p style="color: var(--global-theme-color); font-size: 1.25rem; font-weight: bold;">Open Position: Fully Funded PhD Studentship (Deadline: 1 December 2026)</p>
 
 **Project:** Generative 3D Cell Morphable Model for Blood-Cell Morphodynamics
 

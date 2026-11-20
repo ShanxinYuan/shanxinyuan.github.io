@@ -16,6 +16,8 @@ Organize your courses by years, topics, or universities, however you like!
 -->
 
 
-Introduction to Computer Vision. Sep.2023 --- Dec.2023
+Statistical Planning and Reinforcement Learning. 2025/26
+
+Introduction to Computer Vision. Sep. to Dec. in 2023, 2024, 2025 and 2026
 
 Risk and Decision-Making for Data Science and AI. Jan.2023 --- Apr.2023
