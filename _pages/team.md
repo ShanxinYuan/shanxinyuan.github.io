@@ -13,29 +13,6 @@ horizontal: false
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-
-    <td style="border: none; padding:40px; vertical-align: middle;">
-      <img src="/assets/img/henry.png" alt="Alt Text" width="120" height="160" alt="Image 1" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="https://henrysenior.com/">Henry Senior</a> <br> PhD candidate, 2021 <br> GNN, Vision-Language. <br>With Greg and Luca</p>
-    </td>
-    
-    <td style="border: none; padding:40px; vertical-align: middle;">
-      <img src="/assets/img/qifan.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="https://fuqifan.github.io/">Qifan Fu</a> <br> PhD candidate, 2021 <br> Sign Language. <br>With Greg and Changjae</p>
-    </td>
-    
-    <td style="border: none; padding:40px; vertical-align: middle;">
-      <img src="/assets/img/christian.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="https://www.christiansteinmetz.com/">Christian J. Steinmetz</a> <br> PhD candidate, 2020<br>Audio and Music. <br>With Joshua</p>
-    </td>
-
-    <td style="border: none; padding:40px; vertical-align: middle;">
-      <img src="/assets/img/marco.jpeg" alt="Alt Text" width="120" height="160" alt="Image 2" style="border-radius: 50%;">
-      <p style="font-size: 14px; text-align: center;"> <a href="https://mcomunita.github.io/">Marco Comunita'</a> <br> PhD candidate, 2020<br>Neural Synthesis of Sound Effects. <br>With Joshua</p>
-    </td>
-
-  </tr>
-  <tr>
     <td style="border: none; padding:40px">
       <img src="/assets/img/QingWang.jpg" alt="Alt Text" width="120" height="160" alt="Image 3" style="border-radius: 50%;">
       <p style="font-size: 14px; text-align: center;"> <a href="">Qing Wang</a> <br> PhD candidate, 2023<br>Multi-modal Learning, dance generation.</p>
@@ -51,6 +28,39 @@ horizontal: false
     <td style="border: none; padding:40px">
       <img src="/assets/img/JiahaoYang.jpg" alt="Alt Text" width="120" height="160" alt="Image 4" style="border-radius: 50%;">
       <p style="font-size: 14px; text-align: center;"> <a href="">Jiahao Yang</a> <br> PhD candidate, 2023<br>Generative AI, 4D Human Head.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding:40px">
+      <img src="/assets/img/Dragos.jpeg" alt="Dragos" width="120" height="160" style="border-radius: 50%; object-fit: cover;">
+      <p style="font-size: 14px; text-align: center;"> <a href="">Dragos</a> <br> PhD candidate, 2026<br>Spatial Biology, BBSRC funded.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<b>Alumni</b>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/henry.png" alt="Henry Senior" width="120" height="160" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://henrysenior.com/">Henry Senior</a> <br> PhD, joined 2021 <br> GNN, Vision-Language. <br>With Greg and Luca</p>
+    </td>
+
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/qifan.jpeg" alt="Qifan Fu" width="120" height="160" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://fuqifan.github.io/">Qifan Fu</a> <br> PhD, joined 2021 <br> Sign Language. <br>With Greg and Changjae</p>
+    </td>
+
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/christian.jpeg" alt="Christian J. Steinmetz" width="120" height="160" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://www.christiansteinmetz.com/">Christian J. Steinmetz</a> <br> PhD, joined 2020<br>Audio and Music. <br>With Joshua</p>
+    </td>
+
+    <td style="border: none; padding:40px; vertical-align: middle;">
+      <img src="/assets/img/marco.jpeg" alt="Marco Comunita'" width="120" height="160" style="border-radius: 50%;">
+      <p style="font-size: 14px; text-align: center;"> <a href="https://mcomunita.github.io/">Marco Comunita'</a> <br> PhD, joined 2020<br>Neural Synthesis of Sound Effects. <br>With Joshua</p>
     </td>
   </tr>
 </table>
