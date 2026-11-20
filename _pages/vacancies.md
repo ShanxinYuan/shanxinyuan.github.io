@@ -11,7 +11,21 @@ horizontal: false
 
 We are always looking for motivated PhD students, Postdoctoral researchers, interns, and external members to work with me. Funding is available on a competitive basis. For enquiries about the research or positions, please send me an email (shanxin.yuan@qmul.ac.uk).
 
-     
+<br>
+
+**Open Position: Fully Funded PhD Studentship (Deadline: 1 December 2026)**
+
+**Project:** Generative 3D Cell Morphable Model for Blood-Cell Morphodynamics
+
+We are recruiting a PhD student for an interdisciplinary project at the intersection of Generative AI, 3D Computer Vision, and Computational Biology. The project aims to develop novel generative AI models to reconstruct 3D cellular structures from 2D blood-smear images, with potential applications in cancer biology and biomedical imaging.
+
+- **Supervisory team:** Shanxin Yuan, Oscar Maiques Carlos, Andrejs Braun, Greg Slabaugh
+- **Location:** Queen Mary University of London, UK
+- **Funding:** Fully funded studentship for UK/home students. International applicants are also welcome, provided they can cover the difference between home and international tuition fees. Please note that outstanding international students are also encouraged to apply, as LIDo offers a limited number of places for international applicants.
+- **Deadline:** 1 December 2026
+- **Details and application:** [FindAPhD project page](https://www.findaphd.com/phds/project/development-and-application-of-a-generative-3d-cell-morphable-model-for-blood-cell-morphodynamics/?p199109)
+
+<br>
 
 **PhDs** 
 
